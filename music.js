@@ -1,5 +1,5 @@
 const songs = [
-  { title: "Frizk & Tanger - tiny windows", src: "music1.mp3" },
+  { title: "Tv Off - Kendrick Lamar", src: "music1.mp3" },
   { title: "Vansire - Metamodernity", src: "music2.mp3" },
   { title: "Never Get Used To People - Life Letters", src: "music3.mp3" },
   { title: "Swaige - GET SILLY!!", src: "music4.mp3" },
