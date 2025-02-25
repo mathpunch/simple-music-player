@@ -2,7 +2,7 @@ const songs = [
   { title: "Tv Off - Kendrick Lamar", src: "music1.mp3" },
   { title: "Crazy Story - King Von", src: "music2.mp3" },
   { title: "Cry For Me - The Weeknd", src: "music3.mp3" },
-  { title: "Swaige - GET SILLY!!", src: "music4.mp3" },
+  { title: "Revolving Door - Tate Mcray", src: "music4.mp3" },
 
 ];
 // edit this array to add your own music
