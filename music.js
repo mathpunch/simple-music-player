@@ -1,7 +1,7 @@
 const songs = [
   { title: "Tv Off - Kendrick Lamar", src: "music1.mp3" },
   { title: "Crazy Story - King Von", src: "music2.mp3" },
-  { title: "Never Get Used To People - Life Letters", src: "music3.mp3" },
+  { title: "Cry For Me - The Weekend", src: "music3.mp3" },
   { title: "Swaige - GET SILLY!!", src: "music4.mp3" },
 
 ];
